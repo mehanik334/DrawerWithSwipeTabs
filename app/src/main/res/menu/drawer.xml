@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Всі звернення"
+        android:id="@+id/nav_item_handling"
+        android:icon="@drawable/ic_issues"/>
+
+    <item android:title="Звернення на мапі"
+        android:id="@+id/nav_item_map"
+        android:icon="@drawable/ic_map"/>
+
+
+
+
+    <group android:id="@+id/shitss">
+
+            <item android:title="Увійти в аккаунт" ></item>
+
+    </group>
+
+
+
+
+
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="black">#000</color>
+    <color name="blue">#567DAC</color>
+    <color name="white">#FFF</color>
+    <color name="tabTextColor">#CED8E7</color>
+    <color name="textHeader">#f2f2f2</color>
+    <color name="backgroundNavigPanel">#FFFFFF</color>
+    <color name="start">#6082b4</color>
+    <color name="end">#4a76a4</color>
+    <color name="center">#45b3c3</color>
+    <color name="colorPrimary">#567DAC</color>
+    <color name="inWork">#F89A02</color>
+    <color name="background">#EBEBEB</color>
+    <color name="darkGrey">#878787</color>
+
+</resources>
