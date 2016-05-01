@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sasha\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0-15532a59b4c670e3e68c15148ec2ee7beeb6560c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\pre-dexed\debug\classes-d720fe167a35c84c488b2696852d7ed3ea2ada59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\pre-dexed\debug\classes-6caaafea64db1214429da039b3e945d7ef453903.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\pre-dexed\debug\classes-ace44e87606cec855f046e993b9882ef6227098b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\pre-dexed\debug\classes-0611eabbb8f38bbe8a26a6ece20616f510299d88.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0-e206e10f44f5144c0f62a770119ad5133a5f074e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\pre-dexed\debug\classes-c61a85be7fd1379c31b1d156cd2ea06c67891568.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Sasha\Downloads\DrawerWithSwipeTabs\DrawerWithSwipeTabs\app\build\intermediates\pre-dexed\debug\classes-5319faf1964049d60225f21a40f41d2612243783.jar" />
+    </item>
+
+</items>
