@@ -1,7 +1,7 @@
 package com.denisenko.aist2;
 
 import android.app.FragmentTransaction;
-import android.content.Intent;
+import android.content.Intent; //[Comment] Unused import
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;

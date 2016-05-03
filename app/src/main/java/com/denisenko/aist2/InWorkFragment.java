@@ -27,6 +27,7 @@ public class InWorkFragment extends Fragment   {
         mRecycleView.setLayoutManager(mLayoutManager);
 
         RecyclerView.Adapter mAdapter=new RecycleAdapterFrg(new int[]{R.drawable.card_12_x, R.drawable.card_12_x1,R.drawable.card_12_x2,R.drawable.card_12_x3});
+        //[Comment] Very bad. You use images instead models
         mRecycleView.setAdapter(mAdapter);
         return view;
     }

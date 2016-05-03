@@ -40,7 +40,7 @@ public class TabFragment extends Fragment {
                    }
         });
 
-        return x;
+        return x; //[Comment] x - Bad name
 
     }
 
@@ -79,7 +79,7 @@ public class TabFragment extends Fragment {
                 case 0 :
                     return "В роботі";
                 case 1 :
-                    return "Виконано";
+                    return "Виконано"; //[Comment] Hardcode
                 case 2 :
                     return "Очікує";
             }

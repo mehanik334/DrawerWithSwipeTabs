@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     DrawerLayout mDrawerLayout;
     NavigationView mNavigationView;
     FragmentManager mFragmentManager;
-    FragmentTransaction mFragmentTransaction;
+    FragmentTransaction mFragmentTransaction; //[Comment] VISIBILITY MODIFIERS. All objects can be local
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
